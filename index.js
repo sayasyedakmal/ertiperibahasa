@@ -6,5 +6,5 @@ app.listen(3000, () => {
 });
 
 app.get('/', (req, res) => {
-    res.send('LAMAN WEB ERTIPERIBAHASA YANG BARU!');
+    res.send('LAMAN WEB ERTIPERIBAHASA YANG BARU! <br> OOOOH YEAH');
 });
